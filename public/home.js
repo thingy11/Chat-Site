@@ -117,7 +117,13 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>Coinbase Support is the dedicated customer service team for Coinbase, a leading online platform for buying, selling, and storing cryptocurrencies like Bitcoin, Ethereum, and more.
+
+The Coinbase Support team assists users by:
+	•	Addressing inquiries about Coinbase services and features.
+	•	Resolving account, transaction, and payment issues.
+	•	Providing guidance on security, verification, and compliance.
+	•	Assisting with technical issues such as login or connectivity problems..</p>
           </div>
         `
         break
